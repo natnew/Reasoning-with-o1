@@ -11,3 +11,19 @@ Coding Applications: Projects that involve solving coding challenges, building n
 Image Understanding: Applications that showcase o1’s ability to preprocess and index images with detailed reasoning, enabling efficient Q&A with rich contextual insights.
 Meta-Prompting: Techniques for improving prompts iteratively using o1, including projects that refine customer support prompts for better performance.
 
+## How to Use This Repository
+### Clone the Repository
+
+
+bash
+Copy code
+git clone https://github.com/natnew/Reasoning-with-o1.git
+cd Reasoning-with-o1
+Explore the Directories
+
+Each folder corresponds to a key area of focus (e.g., "Prompting_with_o1" or "Coding_with_o1").
+Detailed documentation and examples are provided within each folder.
+Run the Examples
+
+Follow the instructions within each project to run the examples and experiment with the o1 model.
+
